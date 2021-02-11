@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PoundsToKilogramConverter</string>
+    <string name="pounds_text">Pounds</string>
+    <string name="kilogram_text">Kilograms</string>
+    <string name="converter">Converter</string>
+
+
+</resources>
